@@ -1,4 +1,4 @@
-# Face_Detection
+# Face Detection
 
 This code builds a Face Detection model using a Convolution Neural Network, where the model was trained to learn the patterns using multiple datasets and tested on a separate dataset consisting of four different demographics which were dark-skinned and light-skinned of both genders to see whether the model was biased or not.
 
